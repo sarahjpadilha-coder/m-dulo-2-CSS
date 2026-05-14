@@ -1,0 +1,21 @@
+p {
+    color: red;
+}
+.titulo-destaque{
+    color: blue;
+}
+.paragrafo-destaque{
+    color: orange;
+}
+
+.titulo-destacado{
+    color: yellow;
+}
+
+.titulo-verde{
+    color: green;
+}
+img {
+    height: 200px;
+    width: 200px;
+}
